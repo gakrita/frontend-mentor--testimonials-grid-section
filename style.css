@@ -109,10 +109,6 @@ main {
   inset: 0 200px;
 }
 
-.figcaption {
-  line-height: 1.1;
-}
-
 .image {
   display: block;
   width: 28px;
