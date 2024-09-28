@@ -72,7 +72,7 @@ main {
   font-size: 1.2rem;
   font-weight: var(--fw-bold);
   padding-right: .65rem;
-  margin-block: .8rem;
+  margin-block: 1rem .8rem;
 
   position: relative;
 }
