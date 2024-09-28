@@ -71,7 +71,7 @@ main {
 .testimonial > p:first-of-type {
   font-size: 1.25rem;
   font-weight: var(--fw-bold);
-  margin-block: 1rem;
+  margin-block: .75rem;
 
   position: relative;
 }
