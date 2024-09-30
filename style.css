@@ -145,6 +145,8 @@ main {
     grid-template-areas:
       "one one two five"
       "three four four five";
+
+    gap: 1.7rem;
   }
 
   .grid-flow > :nth-child(1) {
