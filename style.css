@@ -146,7 +146,7 @@ main {
       "one one two five"
       "three four four five";
 
-    gap: 1.7rem;
+    gap: 1.8rem;
   }
 
   .grid-flow > :nth-child(1) {
