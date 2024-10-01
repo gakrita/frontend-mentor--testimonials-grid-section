@@ -75,7 +75,7 @@ main {
   font-weight: var(--fw-bold);
   line-height: 1.3;
   padding-right: .65rem;
-  margin-block: 1rem;
+  margin-block: .9rem;
 
   position: relative;
 }
