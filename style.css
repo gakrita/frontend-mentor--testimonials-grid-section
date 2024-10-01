@@ -65,7 +65,7 @@ main {
 .testimonial {
   box-shadow: 2.5rem 3.75rem 3.125rem -2.938rem rgba(72, 85, 106, 0.247378);
   border-radius: 0.5rem;
-  padding: 1.4rem 2rem 2rem 2rem;
+  padding: 2rem;
 }
 
 .testimonial > p:first-of-type {
