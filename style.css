@@ -76,8 +76,7 @@ main {
 
 .testimonial > p:last-of-type {
   /* padding-right: 0.85rem; */
-  color: hsla(var(--clr-neutral-100-hsl), .3);
-  /* opacity: 0.7; */
+  opacity: 0.7;
 }
 
 .testimonial-1 {
@@ -113,7 +112,7 @@ main {
 }
 
 .image-1 {
-  border: 2px solid  hsla(var(--clr-neutral-100-hsl), .2);
+  border: 2px solid  hsla(var(--clr-neutral-100-hsl), .4);
 }
 
 .image-4 {
