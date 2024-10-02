@@ -56,7 +56,7 @@ main {
 }
 
 .testimonial {
-  box-shadow: 2.5rem 3.75rem 3.125rem -2.938rem hsla(var(--clr-primary-700-hsl), 0.5);
+  box-shadow: 2.5rem 3.75rem 3.125rem -2.938rem hsla(var(--clr-primary-700-hsl), 0.2);
   border-radius: 0.5rem;
   padding: 1.6rem 2rem;
 }
