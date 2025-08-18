@@ -2,7 +2,7 @@
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
-[Δες το Live εδώ!]([https://gakrita.github.io/Frontend-Mentor--Testimonials-grid-section/])
+[Δες το Live εδώ!](https://gakrita.github.io/Frontend-Mentor--Testimonials-grid-section/)
 
 
 
